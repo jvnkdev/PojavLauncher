@@ -1,0 +1,51 @@
+# PojavLauncher
+
+PojavLauncher is a launcher that allows you to play **Minecraft: Java Edition** on Android devices.
+
+## Features
+- Play Minecraft Java Edition on Android.
+- Support for multiple Minecraft versions.
+- Forge, Fabric, NeoForge, and Quilt support.
+- Custom controls.
+- Keyboard and mouse support.
+- Import Java mods, resource packs, and shaders.
+
+## Requirements
+- Android 5.0 or later.
+- A valid Minecraft: Java Edition account.
+- Internet connection for the first login.
+
+## Installation
+1. Download and install the APK.
+2. Open PojavLauncher.
+3. Sign in with your Minecraft account.
+4. Select a Minecraft version.
+5. Press **Play**.
+
+## Controls
+- Touch controls.
+- External keyboard and mouse supported.
+- Controller support may vary.
+
+## Performance Tips
+- Lower render distance for better FPS.
+- Close background apps.
+- Allocate RAM based on your device.
+
+## Troubleshooting
+**Game won't launch**
+- Restart the app.
+- Check your internet connection.
+- Make sure you own Minecraft: Java Edition.
+
+**Low FPS**
+- Lower graphics settings.
+- Use OptiFine or Sodium (where supported).
+- Reduce render distance.
+
+## Credits
+- PojavLauncher Team
+- Minecraft by Mojang Studios
+
+## License
+See the LICENSE file included with this project.
